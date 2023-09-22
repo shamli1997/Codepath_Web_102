@@ -1,0 +1,47 @@
+/* Card.css */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    flex-basis: calc(33.33% - 20px);
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+    box-sizing: border-box;
+}
+
+.card-image {
+    max-width: 100%;
+    max-height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    margin: 10px 0;
+}
+
+p {
+    color: rgb(21, 20, 20);
+}
+
+button {
+    background-color: #a5de4a !important;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+    .card {
+        flex-basis: calc(50% - 20px);
+        /* Set to 50% width for two cards in a row on mobile */
+    }
+}
