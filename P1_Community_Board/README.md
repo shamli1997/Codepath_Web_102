@@ -2,9 +2,9 @@
 
 Submitted by: **Shamli Ingole**
 
-This web app: **Displays events or resources board for the community! **
+This web app: **Displays events or resources board for the community!**
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/shamli1997/Codepath_Web_102/blob/main/P1_Community_Board/community_board.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/shamli1997/Codepath_Web_102/blob/main/P1_Community_Board/community_board_final.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
